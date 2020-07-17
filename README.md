@@ -8,6 +8,7 @@
 * Git Bash 2.27.0
 * Jupyter Notebook 6.0.3
 * Atom v1.49.0
+* Windows 10 Pro
 
 ## Table of contents
 > A list of the technologies used in each project:
