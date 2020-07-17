@@ -8,6 +8,7 @@ Creating receipts for customers in a furniture store.
 * Python 3.7.6
 * Git Bash 2.27.0
 * Atom v1.49.0
+* Windows 10 Pro
 
 ## Features
 * Store names and prices of items in variables.
