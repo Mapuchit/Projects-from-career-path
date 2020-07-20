@@ -22,4 +22,4 @@ Practice working with Python file objects to read and write .txt, .csv and .json
 Project is: _finished_
 
 ## Inspiration
-This is a guided project that practices Python dictionaries from the Python 3 Course on [Codecademy](https://www.codecademy.com/learn).
+This is a guided project that practices files programmings from the Python 3 Course on [Codecademy](https://www.codecademy.com/learn).
