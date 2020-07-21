@@ -2,14 +2,13 @@
 > Implementation of game using stack data structure in Python.
 
 ## General info
-Practice stack data structure and Python classes to model the stacks and disks of the Towers of Hanoi game.
+Practice stack data structure and Python classes to model the stacks and disks of the Towers of Hanoi game. The description of the game as it appeares in the project:
 
-The description of the game as it appeares in the project:
-"The objective of the game is to move the stack of disks from the leftmost stack to the rightmost stack.
+The objective of the game is to move the stack of disks from the leftmost stack to the rightmost stack.
 The game follows three rules:
-    1. Only one disk can be moved at a time.
-    2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod.
-    3. No disk may be placed on top of a smaller disk."
+  1. Only one disk can be moved at a time.
+  2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod.
+  3. No disk may be placed on top of a smaller disk.
 
 ## Technologies
 * Python 3.7.6 
