@@ -1,4 +1,4 @@
-# Towers of Hanoi - Blossom - Hashmap Data Structure
+# Blossom - Hashmap Data Structure
 > Implementation of a hashmap that stores the names of flowers and their meanings, and allows quick and easy lookup.
 
 ## General info
