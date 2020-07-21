@@ -16,7 +16,7 @@ Practice the hashmap data structure and Python classes to create a dictionary th
   * Methods to hash and compress the keys of the hashmap.
   * Methods to assign and retrieve a key and it's value from the hashmap.
   * Iterate through the linked list when assigning or retrieving a key.
-* Displays "None" if key is not found in hashmap.
+* Displays "Flower not found!" if key is not found in hashmap.
 
 ## Status
 Project is: _finished_
